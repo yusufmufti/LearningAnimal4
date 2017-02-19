@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Learning Animal 4</string>
+    <string name="action_settings" translatable="false">About</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+      <string name="about" translatable="false"><Data>
+		<![CDATA[<p>
+			<font color="blue"><b>About this application</b></font>
+			<br><font color="blue"><b>Developer</b></font><br><br>
+			Yusfa Group | yusfa.com | +6289637319180 | <br>ym1315@gmail.com
+			<font color="blue"><b><br><br>Reference and image</b></font><br><br>
+			http://google.com<br><br>http://all-free-download.com/
+			
+		</p>
+		
+		
+		]]></Data>
+	</string>
+
+</resources>
